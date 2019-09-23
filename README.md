@@ -1,4 +1,4 @@
-<Japanese>
+＜Japanese＞
 ## 説明
 マイクロビットで遊ぶために使用するファイルを保存するリポジトリです。
 
@@ -6,7 +6,7 @@
 #### Grage Band向けのファイル
 ・ブルース進行.band ブルース練習用
 
-<English>
+＜English＞
 ## Discription
 some files to use with microbit. and about programing on microbit
 
